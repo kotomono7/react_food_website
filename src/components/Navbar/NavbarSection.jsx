@@ -31,7 +31,7 @@ const Navbar = ({ theme, toggleTheme }) => {
 		<>
 			<StyledNav initial="hidden" animate="visible" variants={NavItems}>
 				<Logo variants={ChildItem}>
-					Food<span>Mood</span>
+					Koto<span>Mono</span>
 				</Logo>
 				<NavLinks>
 					<LinkItem href="#home" className="active" variants={ChildItem}>
