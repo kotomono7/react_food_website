@@ -47,10 +47,9 @@ const HeroSection = () => {
 					</motion.p>
 					<ButtonContainer>
 						<motion.button variants={ChildItem} className="menu">
-							All Menus
+							Order Now
 						</motion.button>
-						<motion.button variants={ChildItem}>Seat Type</motion.button>
-						<motion.button variants={ChildItem}>Capacity</motion.button>
+						<motion.button variants={ChildItem}>View Menus</motion.button>
 					</ButtonContainer>
 				</HeroContent>
 				<ImageContainer variants={HeroImgItem}>
